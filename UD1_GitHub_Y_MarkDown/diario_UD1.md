@@ -16,7 +16,7 @@ Lo que más me ha gustado de lo que hemos aprendido hasta ahora es el **_estilim
 
 ## ¿ Qué es lo que menos  me ha gustado? 🙁
 
-Lo que menos me ha gustado ha sido la complejidad a la hora de aprender alguas utilidades en un espacio tan corto de tiempo como hacer **Merge** .
+Por añadir algo en este apartado,lo que menos me ha gustado es a la hora de hacer **_Merge_** para unir los contenidos de las ramas debido a su complejidad.
 
 ## ¿Qué me gustaria saber relacionado con la Unidad? 📚
 
