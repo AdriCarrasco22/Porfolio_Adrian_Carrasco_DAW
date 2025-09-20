@@ -1,6 +1,6 @@
 # 📝Practica GitHub y MarkDown Adrián Carrasco Fernández 
 
-## ¿Que es GitHub y para que se utiliza?
+## 1. ¿Que es GitHub y para que se utiliza?
 
 💻 GitHub es una plataforma online donde los programadores pueden guardar, compartir y colaborar en proyectos de software usando Git.
 
@@ -16,12 +16,14 @@
 
 ✨ **Ejemplos de uso**
 
-* 👩‍💻👨‍💻 Un equipo desarrollando una app móvil y aportando nuevas funciones.
+* 👩‍💻 Un equipo desarrollando una app móvil y aportando nuevas funciones.
 
 * 🎓 Un estudiante que sube sus proyectos como portafolio.
 
 * 🏢 Una empresa que gestiona su backend y despliega automáticamente.
+  
 
-* 🌐 Comunidades open source como Python, React o Linux compartiendo código.
+## 2. Pasos a seguir para conseguir las diferentes acciones
 
-* 
+* #### Creación de cuenta y repositorio en GitHub
+  
