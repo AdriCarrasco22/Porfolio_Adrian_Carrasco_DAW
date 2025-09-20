@@ -25,5 +25,14 @@
 
 ## 2. Pasos a seguir para conseguir las diferentes acciones
 
-* #### Creación de cuenta y repositorio en GitHub
-  
+* ### Creación de cuenta y repositorio en GitHub
+  ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/00-img1.png)  
+  Una vez hemos creado nuestra cuenta(o en mi caso hemos iniciado sesión al ya disponer de una cuenta) vamos a crear un repositorio:
+
+  ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/01-img2.png)  
+  Le estableceremos un nombre a nuestro repositorio para saber lo que vamos a guardar en el:
+
+  ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/02-img.png)
+
+* ### Subimos archivos a nuestro repositorio
+    
