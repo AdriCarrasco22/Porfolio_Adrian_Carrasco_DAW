@@ -37,7 +37,7 @@ Nos dirigimos a [GitHub](https://github.com/)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/02-img.png)
 
 * ### Subimos archivos a nuestro repositorio
-  Para subir archivos a nuestro repositorio, debemos hacer click en "Add File" y para esta acción, añadir un titulo y una breve descripción para saber que estamos subiendo realmente
+  Para subir archivos a nuestro repositorio, debemos hacer click en "Add File" y para esta acción, añadir un titulo y una breve descripción para saber que estamos subiendo realmente:
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/03-img.png)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/04-img.png)    
   Como resultado encontraremos:  
@@ -69,7 +69,7 @@ Nos dirigimos a [GitHub](https://github.com/)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/15-img.png)
 
 * ### Gestionar configuración y permisos
-  Por ultimo, para añadir colaboradores a nuestros proyectos y que estos puedan acceder a ellos y editarlos nos dirigiremos al engranaje (""Ajustes):
+  Por ultimo, para añadir colaboradores a nuestros proyectos y que estos puedan acceder a ellos y editarlos nos dirigiremos al engranaje ("Ajustes"):
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/16-img.png)
   A la izquierda se nos muestra en primer lugar "Colaborators", siendo el lugar donde haremos click:
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/17-img.png)  
