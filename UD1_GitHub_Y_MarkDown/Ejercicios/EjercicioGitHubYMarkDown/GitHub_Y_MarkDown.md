@@ -37,13 +37,14 @@ Nos dirigimos a [GitHub](https://github.com/)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/02-img.png)
 
 * ### Subimos archivos a nuestro repositorio
+  Para subir archivos a nuestro repositorio, debemos hacer click en "Add File" y para esta acción, añadir un titulo y una breve descripción para saber que estamos subiendo realmente
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/03-img.png)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/04-img.png)    
   Como resultado encontraremos:  
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/05-img.png)
 
 * ### Ver archivos y commits
-  Aquí podremos ver el contenido de cada archivo,haciendo click sobre el archivo:
+  Aquí podremos ver el contenido de cada archivo,haciendo click sobre el:
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/06-img.png)
   
   Para ver el historial, de commits, haremos click aquí:
@@ -55,9 +56,11 @@ Nos dirigimos a [GitHub](https://github.com/)
 * ### Creación y administración de ramas
 
   * #### Creación y administración de ramas
+    Haremos click sobre la rama principal. Nos saldrá la opción de crear otra independiente:
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/09-img.png)
 
   * #### Fusionar ramas
+    Para fusionar ramas, debemos dirigirnos a la barra de navgación de arriba y hacer click en "Pull Request" para fusionar ambas ramas y que los cambios que hagamos en una,también se puedan ver reflejados en la otra:
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/10-img.png)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/11-img.png)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/12-img.png)
@@ -66,7 +69,9 @@ Nos dirigimos a [GitHub](https://github.com/)
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/15-img.png)
 
 * ### Gestionar configuración y permisos
-  ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/16-img.png)  
+  Por ultimo, para añadir colaboradores a nuestros proyectos y que estos puedan acceder a ellos y editarlos nos dirigiremos al engranaje (""Ajustes):
+  ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/16-img.png)
+  A la izquierda se nos muestra en primer lugar "Colaborators", siendo el lugar donde haremos click:
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/17-img.png)  
   ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UD1_GitHub_Y_MarkDown/Ejercicios/EjercicioGitHubYMarkDown/imagenes/18-img.png)  
 
