@@ -1,23 +1,17 @@
 ## ¿Qué he aprendido? 👨‍🏫✅
-Como reflexión puede decir que he aprendido algunas de las utilidades más basicas de **GitHub** como puede ser abrirnos una cuenta [**Adricarrasco22**](https://github.com/AdriCarrasco22), crear un repositorio,etc.
-
-También hemos aprendido a crear ramas y hacer **commits** a la hora de efectuar cambios sobre los archivos de nuestro repositorio.
+Como reflexión puede decir que he aprendido a crear una **Máquina Virtual** con **Linux** como sistema operativo, otorgándole todos los requerimientos mínimos de hardware y software para poder tener una buena ejecución y desarrollo de mis tareas
 
 ## ¿ Qué no entiendo? ❌
-En este apartado creo que no habría mucho que añadir salvo algunos detalles.
-
-Lo unico que podría mencionar sería la adaptación que considero necesitar a la hora de trabajar con GitHub pues el año pasado únicamente lo utilizamos de biblioteca y no indagamos en las diferentes funcionalidades que este tenía.
-
-Se moverme dentro de GitHub pero no tengo fluidez a la hora de manejar todos las utilidades que este tiene, desconociendo algunas de ellas.
+En este apartado no tendría nada que añadir ya que creo que he entendido cada paso que he dado en esta tarea, apoyandome en distintos foros.
 
 ## ¿ Qué es lo que más me ha gustado? 😁
 
-Lo que más me ha gustado de lo que hemos aprendido hasta ahora es el **_estilimo_** que le podemos dar a nuestros archivos de GitHub como a nuestro README y la facilidad de poder compartir nuestro contenido en GitHub con colaboradores.
+Lo que más me ha gustado de lo que hemos aprendido es la creación de la **Máquina Virtual** ya que lo podemos tomar como un entorno de pruebas para posteriormente, realizar los mismos pasos en nuestro dispositivo de una forma más segura.
 
 ## ¿ Qué es lo que menos  me ha gustado? 🙁
 
-Por añadir algo en este apartado,lo que menos me ha gustado es a la hora de hacer **_Merge_** para unir los contenidos de las ramas debido a su complejidad.
+Por añadir algo en este apartado,lo que menos me ha gustado es la realización de sentencias en la terminal que no entendia muy bien su utilidad y he tenido que consultar los foros anteriormente citados.
 
 ## ¿Qué me gustaria saber relacionado con la Unidad? 📚
 
-Me gustaría asentar todos los cocnocimientos que hemos adquirido sobre **MarkDown** y las distintas funcionalidades de **GitHub**.
+Me gustaría asentar todos los cocnocimientos que hemos adquirido sobre la **Virtualización** aplicando lo aprendido en el dia a día en las demás asignaturas para no cometer errores en mi dispositivo principal.
