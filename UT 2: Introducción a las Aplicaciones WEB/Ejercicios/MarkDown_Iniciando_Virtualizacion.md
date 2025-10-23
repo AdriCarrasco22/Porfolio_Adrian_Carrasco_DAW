@@ -1,7 +1,7 @@
 # Iniciación a la Virtualización
 ---
 
-## 1. Escritorio Ubuntu
+##  Escritorio Ubuntu
 
 En esta captura podemos ver nuestro escritorio de Ubuntu ya instalado y operativo.
 
@@ -9,7 +9,7 @@ En esta captura podemos ver nuestro escritorio de Ubuntu ya instalado y operativ
 
 ---
 
-## 2. Instalación de Docker Desktop
+##  Instalación de Docker Desktop
 
 #### Actualización del sistema:
 
@@ -37,32 +37,70 @@ Añadimos el repositorio estable de Docker a la lista de fuentes del sistema.
 
 ![Agregar repositorio oficial de Docker](imagenes/img6.png)
 
+#### Update
+![Update](imagenes/img7.png)
+
 #### Instalar Docker:
 
 Instalamos el motor de Docker (Docker CE).
 
-![Instalar Docker CE](imagenes/img7.png)
+![Instalar Docker CE](imagenes/img8.png)
 
 #### Verificar la instalación:
 
 Verificamos que el servicio de Docker esté activo y corriendo.
 
-![Verificar el estado del servicio Docker](imagenes/img8.png)
+![Verificar el estado del servicio Docker](imagenes/img9.png)
 
 #### Probar Docker con una imagen de prueba con sudo:
 
 Ejecutamos la imagen de prueba `hello-world` para comprobar la instalación.
 
-![Prueba Docker con imagen hello-world (sudo)](imagenes/img9.png)
+![Prueba Docker con imagen hello-world (sudo)](imagenes/img10.png)
 
-### 2.1 Ejecutar Docker sin sudo
+### Ejecutar Docker sin sudo
 
 Para poder ejecutar Docker sin necesidad de usar `sudo` en cada comando, se realizan los siguientes pasos:
 
-```bash
-sudo groupadd docker
-sudo usermod -aG docker $USER
-newgrp docker
+![Comando](imagenes/img11.png)
+![ComandoFoto](imagenes/img12.png)
+![Hello from Docker](imagenes/img13.png)
+
+## Instalación de Nginx y Tomcat
+
+### Nginx
+
+![Nginx](imagenes/img14.png)
+![Varios Sudo](imagenes/img15.png)
+![Docker search](imagenes/img16.png)
+
+### Tomcat
+
+![Tomcat Search](imagenes/img17.png)
+
+### Descargar e iniciar contenedores
+
+![Docker Run nginx](imagenes/img18.png)
+![Docker run tomcat](imagenes/img19.png)
+
+### Verificacion de contenedores activos
+
+![Docker ps](imagenes/img20.png)
+
+### Abrimos en el navegador
+
+#### NGINX
+
+![PUERTO 8080](imagenes/img21.png)
+
+#### TOMCAT
+
+![PUERTO 8081](imagenes/img22.png)
+
+
+
+
+
 
 
 
