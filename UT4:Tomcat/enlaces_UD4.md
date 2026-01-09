@@ -5,3 +5,6 @@
 
 * [**Identificación de archivos de configuración**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/MarkDown_IdentificacionArchivosConfig.md)
   En esta práctica vamos a identificar aquellos archivos de configuración de las aplicaciones aplicaciones web.
+
+* [**Despliegue de Aplicación Web**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4:Tomcat/Ejercicios/MarkDown_DespliegueAplicacionWeb.md)
+  En esta actividad vamos a ver como podemos despligar una simple Aplicación Web.
