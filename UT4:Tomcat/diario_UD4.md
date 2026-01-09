@@ -1,12 +1,12 @@
 ## ¿Qué he aprendido? 👨‍🏫✅
-Como reflexión puede decir que he aprendido a Instalar el servidor de Apache, el cual nos permitirá trabajar "en  línea" con localhost, permitiendo establecer conexiones con otros compañeros
+Como reflexión puedo decir que he aprendido a Instalar TomCat, el cual nos permitirá alojar aplicaciones web.  
 
 ## ¿ Qué no entiendo? ❌
 En este apartado no tendría nada que añadir ya que creo que he entendido cada paso que he dado en esta tarea, apoyandome en distintos foros y webs.
 
 ## ¿ Qué es lo que más me ha gustado? 😁
 
-Lo que más me ha gustado de lo que hemos aprendido es la utilidad de cada comando, cada paso que he dado, ya que no tenía mucha idea de utilizar la terminal
+Lo que más me ha gustado de lo que hemos aprendido es la utilidad de cada comando, cada paso que he dado, ya que no tenía mucha idea de utilizar la terminal.
 
 ## ¿ Qué es lo que menos  me ha gustado? 🙁
 
