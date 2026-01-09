@@ -8,3 +8,6 @@
 
 * [**Despliegue de Aplicación Web**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4:Tomcat/Ejercicios/MarkDown_DespliegueAplicacionWeb.md)
   En esta actividad vamos a ver como podemos despligar una simple Aplicación Web.
+
+* [**Integración Tomcat + Servidor Web**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4:Tomcat/Ejercicios/MarkDown_IntegracionTomcatYServidorWeb.md)
+  En esta actividad vamos a acceder a nuestra aplicación web sin especificar el puerto 8080, ya que Apache está haciendo el puente.
