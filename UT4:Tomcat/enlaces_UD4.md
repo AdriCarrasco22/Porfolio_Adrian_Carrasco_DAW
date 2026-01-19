@@ -11,3 +11,6 @@
 
 * [**Integración Tomcat + Servidor Web**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4:Tomcat/Ejercicios/MarkDown_IntegracionTomcatYServidorWeb.md)
   En esta actividad vamos a acceder a nuestra aplicación web sin especificar el puerto 8080, ya que Apache está haciendo el puente.
+
+* [**Configuración de seguridad en Tomcat**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/MarkDown_ConfiguracionDeSeguridadTomcat.md)
+  En esta actividad vamos establecer configuración de seguridad en Tomcat para acceder de forma más segura a nuestro localhost.
