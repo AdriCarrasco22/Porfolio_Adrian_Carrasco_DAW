@@ -14,3 +14,6 @@
 
 * [**Configuración de seguridad en Tomcat**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/MarkDown_ConfiguracionDeSeguridadTomcat.md)
   En esta actividad vamos establecer configuración de seguridad en Tomcat para acceder de forma más segura a nuestro localhost.
+
+* [**Herramientas de Administración en Tomcat**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/MarkDown_HerramientasDeAdministracion.md)
+  En esta actividad vamos a ver las diferentes herramientas que podemos utilizar en nuestras aplicaciones con los diferentes usuarios.
