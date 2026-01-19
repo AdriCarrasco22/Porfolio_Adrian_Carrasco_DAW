@@ -24,7 +24,7 @@ A continuación, vamos a limitar el acceso por IP.
            allow="127\.0\.0\.1"/>
 </Context>
 `  
-![img](imagen1)
+![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/Imagenes/img1_actividadConfig.png)
 
 - Posteriormente vamos a reiniciar Tomcat para efectuar los cambios:  
   `sudo systemctl restart tomcat10`
@@ -37,13 +37,13 @@ Ejecutaremos el siguiente comando:
   `sudo keytool -genkey -alias tomcat -keyalg RSA -keystore /etc/tomcat10/tomcat.jks -keysize 2048`  
  
 Después vamos a completar todos los datos solicitados:  
-  ![img](imagen2)
+  ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/Imagenes/img2_actividadConfig.png)
 
 ### 3.2 Configurar SSL en Tomcat
 -Abrimos el archivo `server.xml`:  
 `sudo nano /etc/tomcat10/server.xml`  
 - Una vez dentro, añadiremos este conector dentro de `<Service name="Catalina">`:  
-  ![img](imagen3)
+  ![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/Imagenes/img3_actividadConfig.png)
   
  - Por ultimo, reiniciarews Tomcat para ejecutar los cambios:  
 `sudo systemctl restart tomcat10`
@@ -58,12 +58,12 @@ De esta forma estamos activando restricciones adicionales de seguridad.
 
 ## 5. Probar el acceso autenticado
 Como último paso, vamos a proceder a abir el navegador y vamos a intentar acceder tanto a nuestro Admin como a Manager:  
-![img](imagen4)  
-![img](imagen5)  
+![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/Imagenes/img4_actividadConfig.png)  
+![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/Imagenes/img5_actividadConfig.png)  
 
 Como vemos hemos podido acceder correctamente al Admin. Ahora vamos a intentar entrar al Manager:  
-![img](imagen6)  
-![img](imagen7)
+![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/Imagenes/img6_actividadConfig.png)  
+![img](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT4%3ATomcat/Ejercicios/Imagenes/img7_actividadConfig.png)
 
 
 
