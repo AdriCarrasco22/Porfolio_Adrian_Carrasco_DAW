@@ -11,3 +11,6 @@
 
 * [**Filezilla:Configuración de acceso anónimo**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_ConfiguracionAccesoAnonimo.md)
   En esta práctica vamos aacceder al servidor FTP como anónimo con alguna limitación de permisos.
+
+* [**Filezilla: Pruebas en modo activo y pasivo**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5:Filezilla/Ejercicios/MarkDown_PruebasActivoPasivo.md)
+  En esta práctica vamos a acceder a nuestra conexión ftp mediante el modo activo y el modo pasivo y obvservaremos las diferencias.
