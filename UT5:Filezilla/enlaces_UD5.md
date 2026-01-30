@@ -8,3 +8,6 @@
 
 * [**Filezilla: Creación de Usuarios y grupo**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5:Filezilla/Ejercicios/MarkDown_UsuariosYGrupos.md)
   En esta práctica vamos a crear nuestros primeros dos usuarios y los meteremos dentro de un grupo limitado.
+
+* [**Filezilla:Configuración de acceso anónimo**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_ConfiguracionAccesoAnonimo.md)
+  En esta práctica vamos aacceder al servidor FTP como anónimo con alguna limitación de permisos.
