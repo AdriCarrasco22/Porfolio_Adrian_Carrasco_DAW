@@ -14,3 +14,6 @@
 
 * [**Filezilla: Pruebas en modo activo y pasivo**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5:Filezilla/Ejercicios/MarkDown_PruebasActivoPasivo.md)
   En esta práctica vamos a acceder a nuestra conexión ftp mediante el modo activo y el modo pasivo y obvservaremos las diferencias.
+
+* [**Filezilla: Pruebas con clientes en la línea de comandos**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_PruebasClientesCoomandos.md)
+  En esta práctica vamos a realizar pruebas con los diferentes clientes desde la línea de comandos.
