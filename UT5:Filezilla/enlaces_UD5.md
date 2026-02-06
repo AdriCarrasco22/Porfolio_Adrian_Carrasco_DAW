@@ -20,3 +20,6 @@
 
 * [**Filezilla: Pruebas con clientes gráficos**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_PruebasClientesGraficos.md)
   En esta práctica vamos a realizar pruebas gráficas en FileZilla con el usuario1 ejecutando transferencias bidireccionales (subir y descargar archivos).
+
+* [**Filezilla: Configuración de FTP seguro (FTPS)**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_ConfiguracionFTPSeguro.md)
+  En esta práctica vamos a realizar una conexión a nuestro servicio de FleZilla de forma cifrada con FTPS (TLS).
