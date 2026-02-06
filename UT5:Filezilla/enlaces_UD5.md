@@ -17,3 +17,6 @@
 
 * [**Filezilla: Pruebas con clientes en la línea de comandos**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_PruebasClientesComandos.md)
   En esta práctica vamos a realizar pruebas con los diferentes clientes desde la línea de comandos.
+
+* [**Filezilla: Pruebas con clientes gráficos**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_PruebasClientesGraficos.md)
+  En esta práctica vamos a realizar pruebas gráficas en FileZilla con el usuario1 ejecutando transferencias bidireccionales (subir y descargar archivos).
