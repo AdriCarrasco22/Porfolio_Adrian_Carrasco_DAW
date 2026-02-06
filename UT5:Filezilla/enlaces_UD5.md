@@ -23,3 +23,6 @@
 
 * [**Filezilla: Configuración de FTP seguro (FTPS)**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_ConfiguracionFTPSeguro.md)
   En esta práctica vamos a realizar una conexión a nuestro servicio de FleZilla de forma cifrada con FTPS (TLS).
+
+* [**Filezilla: Uso del navegador como cliente FTP**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_NavegadorClienteFPT.md)
+  En esta práctica vamos a intentar la conexión a nuestro servicio metiante la URL de navegador con FTP. Esto nos dará un error y elaboraremos esta actividad mediante el explorador de archivos.
