@@ -26,3 +26,6 @@
 
 * [**Filezilla: Uso del navegador como cliente FTP**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_NavegadorClienteFPT.md)
   En esta práctica vamos a intentar la conexión a nuestro servicio metiante la URL de navegador con FTP. Esto nos dará un error y elaboraremos esta actividad mediante el explorador de archivos.
+
+* [**Filezilla: Integración FTP y Web**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5:Filezilla/Ejercicios/MarkDown_IntegracionFTPServidorWeb.md)
+  En esta práctica vamos a sincronizar servicios vinculando al directorio raiz de Apache con el acceso del servidor FTP.
