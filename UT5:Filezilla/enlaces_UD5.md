@@ -29,3 +29,6 @@
 
 * [**Filezilla: Integración FTP y Web**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5:Filezilla/Ejercicios/MarkDown_IntegracionFTPServidorWeb.md)
   En esta práctica vamos a sincronizar servicios vinculando al directorio raiz de Apache con el acceso del servidor FTP.
+
+* [**Filezilla: Disponibilidad y Buenas Prácticas**](https://github.com/AdriCarrasco22/Porfolio_Adrian_Carrasco_DAW/blob/main/UT5%3AFilezilla/Ejercicios/MarkDown_DisponibilidadBuenasPracticas.md)
+  En esta práctica vamos a sincronizar a ver una buenas prácticas para que nuestro servidor y servicios funcionen de forma segura y profesional
